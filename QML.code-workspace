@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../ID5841"
+		},
+		{
+			"path": "../AdMlPh@Florian/HOpfield>mini_project@Florian"
+		}
+	],
+	"settings": {
+		"julia.executablePath": "/home/julia.julia-1.7.0"
+	}
+}
